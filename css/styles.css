@@ -1,0 +1,73 @@
+.bd-navbar {
+    background-image: linear-gradient(to left, #38056C , #FFB2C7);
+}
+
+#home {
+    background-image: linear-gradient(to left, #38056C , #FFB2C7);
+    color: white;
+}
+
+#Sobre{
+    color: #1F35C3;
+}
+
+.caixa {
+    padding: 60px 0 0 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.caixa2 {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+    color: #e5e5e5;
+}
+
+.caixa .container .btn {
+    background-color: #1F35C3;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    justify-content: center;
+    font-size: 16px;
+}
+
+#Sobre__2 {
+    background-color: #F4F4F9;
+    color: #1F35C3;
+}
+
+#Sobre__3 {
+    background-color: #F4F4F9;
+    color: #1F35C3;
+}
+
+#Sobre__4 {
+    background-color: #F4F4F9;
+    color: #1F35C3;
+}
+
+.input-group .nav-item {
+    text-decoration: none;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 8px;
+    flex-direction: row;
+}
+
+footer p a {
+    margin: 5px 10px;
+}
+
+.redes {
+
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 8px;
+    flex-direction: row;
+}
+
+.foter {
+    background-color: #38056C;
+    color: #e5e5e5;
+}
